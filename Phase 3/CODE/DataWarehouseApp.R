@@ -1,4 +1,3 @@
-#This app has been developed and tested by: (we will put our names here after testing phase.)
 
 #####If the app does not work, install the below packages mannualy#########################################################
 list.of.packages = c("shiny", "shinydashboard" ,"DBI","RPostgreSQL" , "DT", "dplyr", "dbplyr") 
