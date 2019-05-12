@@ -1,0 +1,5 @@
+The sql files are in:
+CODE > Other > Sql
+
+The schema files are in:
+CODE > Other > Schemas

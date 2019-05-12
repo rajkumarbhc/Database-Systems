@@ -1,0 +1,1001 @@
+storenumber,streetaddress,phonenumber,cityname,state
+590,859 Green Hague Parkway,5558087245,Akron,MO
+644,64 East First Street,1129693536,Akron,MO
+882,40 Green Nobel Freeway,7363611787,Akron,MO
+970,769 West Green First Blvd.,1697797037,Akron,MO
+205,21 North Second Way,6882618913,Akron,OH
+497,388 Cowley Blvd.,7936430210,Akron,OH
+763,193 First Freeway,6725493089,Akron,OH
+783,836 Clarendon Avenue,7237681619,Akron,OH
+990,41 Rocky First Avenue,5857887579,Akron,OH
+149,74 Rocky Oak St.,5093147465,Akron,RI
+262,26 Rocky Milton Freeway,1153391089,Akron,RI
+874,912 Nobel St.,7055199400,Akron,RI
+53,313 First Boulevard,8503872434,Albuquerque,NV
+635,36 Old St.,620777064,Albuquerque,NV
+360,756 Green Fabien Way,9482511874,Albuquerque,OR
+370,74 North Hague Drive,2067820429,Albuquerque,OR
+803,252 Rocky Old Boulevard,8040548718,Albuquerque,OR
+11,430 Nobel Parkway,6356221428,Albuquerque,WV
+537,70 South Green Nobel Boulevard,12930691,Albuquerque,WV
+527,27 South Green Hague Blvd.,9315547766,Anaheim,CA
+134,906 Oak Freeway,2218527244,Anaheim,HI
+255,557 Nobel Parkway,9314337372,Anaheim,HI
+327,68 White Clarendon Boulevard,6332670152,Anaheim,HI
+651,87 Green Old Parkway,3748439209,Anaheim,HI
+748,384 Fabien St.,8985674417,Anaheim,HI
+46,112 White Fabien Way,6990040925,Anaheim,KS
+68,474 North Green New Freeway,8619532453,Anaheim,KS
+544,65 First Freeway,3221886212,Anaheim,KS
+570,74 Oak Street,9903774597,Anaheim,KS
+797,380 Second Boulevard,1548705899,Anaheim,KS
+251,998 South White Clarendon Drive,2388155087,Anchorage,FL
+579,36 White New Boulevard,2603058610,Anchorage,FL
+587,37 North First Blvd.,6661359133,Anchorage,FL
+708,54 South Green Clarendon Drive,7958534902,Anchorage,FL
+1000,60 New Road,6330824204,Anchorage,FL
+40,562 West Old Parkway,9805648136,Anchorage,MO
+175,378 East Second Avenue,9738374672,Anchorage,MO
+322,78 Milton Blvd.,7239245,Anchorage,MO
+90,84 West Rocky Old Avenue,1112886059,Anchorage,MT
+589,93 Green Second Avenue,4961451713,Anchorage,MT
+605,895 Oak Blvd.,5783530718,Anchorage,MT
+830,762 White First Street,1250627194,Anchorage,MT
+159,606 Green Second Way,7688198322,Arlington,CA
+373,209 White Old St.,9738124155,Arlington,CA
+6,60 West Fabien Avenue,6487977659,Arlington,KS
+157,55 New Freeway,7831141703,Arlington,KS
+487,737 Nobel Street,9697382378,Arlington,KS
+585,32 Hague Road,147828812,Arlington,KS
+765,136 Old Blvd.,3628045238,Arlington,KS
+16,49 West Green New Boulevard,7504205566,Arlington,WA
+277,694 Clarendon Blvd.,5166019332,Arlington,WA
+323,747 East New Avenue,655553458,Arlington,WA
+641,76 Rocky Milton Street,4422411662,Arlington,WA
+889,126 Green Oak Street,8808959260,Arlington,WA
+907,815 East Rocky Fabien Drive,9769555741,Arlington,WA
+958,187 Old Road,8890309669,Arlington,WA
+169,249 Fabien Parkway,2285976856,Atlanta,AR
+482,443 Nobel Blvd.,5744429256,Atlanta,AR
+563,456 North White Cowley Way,2035732663,Atlanta,AR
+751,26 Green First Boulevard,1589382381,Atlanta,AR
+140,47 White New Road,8910819924,Atlanta,MN
+398,734 South First Boulevard,9172757119,Atlanta,MN
+426,80 White Oak Freeway,7983295384,Atlanta,MN
+253,329 South Rocky Hague Freeway,7839888468,Atlanta,TX
+372,77 Oak Boulevard,6876395502,Atlanta,TX
+610,638 White Oak Road,6437555397,Atlanta,TX
+865,60 Green Cowley Avenue,9174657129,Atlanta,TX
+124,140 White New Way,5225110658,Aurora,NY
+189,10 Fabien Road,4041418539,Aurora,NY
+455,53 West Clarendon Freeway,9214129375,Aurora,NY
+720,47 Old Freeway,2573309216,Aurora,NY
+784,34 North Oak St.,9271864522,Aurora,NY
+922,66 White Clarendon Way,8617931732,Aurora,NY
+176,389 Milton Boulevard,3304716383,Aurora,WA
+240,40 White Old Parkway,5755869506,Aurora,WA
+653,666 White Oak Way,2292131777,Aurora,WA
+811,72 West Green Old Blvd.,308883483,Aurora,WA
+10,33 Nobel Blvd.,6703443433,Austin,AR
+25,83 Second Blvd.,1305815115,Austin,AR
+191,46 Fabien Way,462542488,Austin,AR
+506,35 First Drive,4007721758,Austin,TX
+601,11 First Road,8267075556,Austin,TX
+698,60 White Clarendon Street,2887936840,Austin,TX
+838,46 Rocky Nobel Parkway,9796699178,Austin,TX
+938,922 White Nobel Avenue,1813537599,Austin,TX
+66,30 North Hague Boulevard,4779752497,Austin,VT
+221,835 South Old St.,1015638658,Austin,VT
+292,87 South Clarendon Way,535380471,Austin,VT
+891,70 Oak Street,8197837588,Austin,VT
+21,878 Rocky First Blvd.,995205981,Bakersfield,CA
+59,34 Oak St.,713148753,Bakersfield,CA
+311,54 West White Old Avenue,2215907083,Bakersfield,CA
+328,47 Rocky Milton Drive,8493366728,Bakersfield,CA
+407,77 White Old Road,7797576873,Bakersfield,CA
+881,611 Milton St.,1737688290,Bakersfield,CA
+888,102 North White First Way,2103377675,Bakersfield,CA
+345,47 Hague Road,3465508721,Bakersfield,KS
+355,163 Fabien Parkway,2547684444,Bakersfield,KS
+225,73 Hague Blvd.,26652720,Baltimore,NC
+276,42 First Street,3166558247,Baltimore,NC
+352,278 South Green Second Drive,5448159734,Baltimore,NC
+933,25 Old Boulevard,2846532566,Baltimore,NC
+936,12 Cowley Blvd.,8381265921,Baltimore,NC
+974,689 Milton Blvd.,1041387323,Baltimore,NC
+146,48 Green Hague Freeway,8808137830,Baltimore,VT
+160,39 Old Parkway,8467896509,Baltimore,VT
+754,201 White Milton Boulevard,3882557208,Baltimore,VT
+64,40 Hague Avenue,6659371035,Baltimore,WY
+353,83 White Milton Parkway,3969505918,Baltimore,WY
+364,408 East Milton Parkway,3898383343,Baltimore,WY
+421,324 Rocky Nobel Way,4383694919,Baltimore,WY
+465,420 Clarendon Boulevard,2897355409,Baltimore,WY
+336,908 First Boulevard,5931950557,Baton Rouge,AZ
+452,79 Green Oak Street,7047327653,Baton Rouge,AZ
+843,629 Green Nobel Parkway,6832433808,Baton Rouge,AZ
+69,58 Oak Boulevard,2799142431,Baton Rouge,DE
+316,444 Second Road,587939428,Baton Rouge,DE
+569,889 Rocky Old St.,2040839390,Baton Rouge,DE
+664,304 Rocky Clarendon St.,1238049021,Baton Rouge,DE
+679,152 East First Road,3090651551,Baton Rouge,DE
+813,611 Green Clarendon Avenue,914657430,Baton Rouge,DE
+858,264 North Nobel Blvd.,5144225540,Baton Rouge,DE
+118,286 Old Way,6752794339,Baton Rouge,GA
+378,31 North Clarendon Parkway,7964472274,Baton Rouge,GA
+408,88 South Milton Road,3134518918,Baton Rouge,GA
+863,22 White New Way,2894565043,Baton Rouge,GA
+212,249 Cowley St.,2514238473,Birmingham,TX
+394,76 Cowley Parkway,350195417,Birmingham,TX
+705,73 Cowley Avenue,265782223,Birmingham,TX
+785,65 Green First Street,4466858064,Birmingham,TX
+833,54 Green First Road,8018097422,Birmingham,TX
+909,46 South Green New Boulevard,3090091160,Birmingham,TX
+241,956 Second Blvd.,5875969053,Birmingham,VT
+438,584 Second Way,2936401552,Birmingham,VT
+457,65 West Green Oak Freeway,612610505,Birmingham,VT
+606,74 Rocky New Avenue,2608759919,Birmingham,VT
+744,88 South Fabien Drive,9530561604,Birmingham,VT
+761,65 South Hague Boulevard,6315475868,Birmingham,VT
+130,50 Oak Boulevard,7761769382,Birmingham,WY
+315,84 White Old Way,7786944750,Birmingham,WY
+631,735 Milton Road,7099096647,Birmingham,WY
+136,70 Nobel Parkway,9193114053,Boston,CO
+535,164 White Second Road,3974589153,Boston,CO
+731,46 Milton Street,3493780481,Boston,CO
+898,12 Green Oak Way,5942131184,Boston,CO
+925,329 Green Oak Boulevard,3640119944,Boston,CO
+987,11 Rocky Milton Way,623081622,Boston,CO
+82,158 Rocky Old Way,6467179417,Boston,NV
+312,750 West White Milton Way,8749094305,Boston,NV
+339,54 Rocky Fabien Street,3003279872,Boston,NV
+602,265 White New Way,5558407958,Boston,NV
+624,91 East First Way,9083797247,Boston,NV
+804,35 East Green Second Way,7867051692,Boston,NV
+151,890 White Clarendon Drive,8658311212,Boston,WV
+269,64 Cowley Freeway,363301808,Boston,WV
+607,99 Oak Drive,1330300660,Boston,WV
+645,51 West Green Hague St.,5109725723,Boston,WV
+654,822 Rocky Old Road,7016668523,Boston,WV
+361,661 East Rocky New Parkway,6461691023,Buffalo,AL
+539,69 Old St.,5405400600,Buffalo,AL
+560,915 West Nobel Boulevard,2579280031,Buffalo,AL
+847,587 New Avenue,3862705788,Buffalo,AL
+70,84 Green Milton Road,7074283685,Buffalo,IA
+218,25 White Old Parkway,3788797752,Buffalo,IA
+626,11 Milton Road,9661015406,Buffalo,IA
+723,94 Hague Blvd.,2967225568,Buffalo,IA
+880,466 Fabien Way,8260815116,Buffalo,IA
+503,46 South New Avenue,2753270402,Charlotte,CA
+526,27 Green Cowley Way,8734450403,Charlotte,CA
+678,440 East Green Hague Way,9303220137,Charlotte,CA
+796,58 White Old Blvd.,573389196,Charlotte,CA
+825,12 White Fabien Drive,144283174,Charlotte,CA
+826,34 North Nobel Road,635535853,Charlotte,CA
+29,45 Rocky Clarendon Road,6463824827,Charlotte,NY
+304,310 North White Old Road,8419596486,Charlotte,NY
+405,256 Clarendon St.,4581304443,Charlotte,NY
+424,57 East Clarendon Freeway,6600693488,Charlotte,NY
+510,995 New Road,9588275904,Charlotte,NY
+105,93 North Old Way,1492110448,Charlotte,WA
+471,753 White Second Freeway,8647654689,Charlotte,WA
+648,403 Green Second Street,6419642625,Charlotte,WA
+148,59 South Milton Blvd.,6853217694,Chicago,MI
+341,685 White Milton Road,7286704525,Chicago,MI
+542,880 Rocky Clarendon Avenue,2908515673,Chicago,MI
+343,392 Green Nobel Way,2063600769,Chicago,NH
+592,463 White First Blvd.,5027868457,Chicago,NH
+306,792 Milton Street,9730540715,Cincinnati,CO
+562,59 West Green Milton Avenue,844544042,Cincinnati,CO
+726,586 Clarendon Boulevard,7592295017,Cincinnati,CO
+170,58 Old Way,4434014459,Cincinnati,MA
+432,65 Rocky Nobel Parkway,4090537465,Cincinnati,WV
+445,61 White Fabien Way,7706512433,Cincinnati,WV
+571,41 West Fabien Parkway,5325095902,Cincinnati,WV
+799,56 Rocky Nobel St.,261066778,Cincinnati,WV
+964,168 North White Second Road,1542489982,Cincinnati,WV
+4,444 North Rocky Milton Avenue,3402645348,Cleveland,CT
+33,25 West First Street,9450804541,Cleveland,CT
+303,721 Clarendon Way,3484411162,Cleveland,CT
+529,753 Green Second Avenue,6742427294,Cleveland,CT
+674,72 Fabien Road,8472460530,Cleveland,CT
+15,100 South First Boulevard,4732037499,Cleveland,IL
+51,154 Rocky Oak Road,7201848569,Cleveland,IL
+244,14 Nobel Boulevard,7563917166,Cleveland,IL
+366,27 West Oak Parkway,2181164653,Cleveland,IL
+402,986 East Rocky Hague Road,5519100168,Cleveland,IL
+795,489 Nobel St.,1048144185,Cleveland,IL
+56,693 East White Milton St.,779781951,Cleveland,OK
+410,545 Nobel Road,9447395098,Cleveland,OK
+572,16 White Second Parkway,2872186057,Cleveland,OK
+584,813 Green Old Drive,4656107033,Cleveland,OK
+617,69 New Boulevard,1031875104,Cleveland,OK
+876,832 South Green Second Way,8955274044,Cleveland,OK
+71,46 Milton Freeway,8262557261,Colorado,AZ
+116,48 West Rocky Oak Freeway,4281754968,Colorado,AZ
+331,59 East Green Hague Way,6567625675,Colorado,AZ
+78,489 White Milton Avenue,2301862096,Colorado,DE
+227,75 Green Hague Avenue,8784161069,Colorado,DE
+449,340 South Old St.,4877937295,Colorado,DE
+753,565 Rocky New St.,752789941,Colorado,DE
+873,870 Oak Street,9385760394,Colorado,DE
+107,235 South Oak Blvd.,1097457015,Colorado,MD
+195,899 Nobel Street,5308047498,Colorado,MD
+279,24 Second Boulevard,4815305583,Colorado,MD
+516,862 Nobel Avenue,2235467817,Colorado,MD
+734,465 Clarendon Boulevard,6008392422,Colorado,MD
+822,22 Oak Road,7651493879,Colorado,MD
+866,184 Hague Blvd.,9105560974,Colorado,MD
+338,355 North Green Old Way,7262803894,Columbus,ID
+788,822 White Cowley Blvd.,3771485170,Columbus,ID
+860,797 West Green New St.,8378276793,Columbus,ID
+126,743 Oak Street,639357790,Columbus,IL
+415,37 Clarendon Drive,4474339319,Columbus,IL
+578,740 East Hague Boulevard,3322777570,Columbus,IL
+752,143 Green Nobel Freeway,6061242490,Columbus,IL
+886,13 South Green First Way,5485418898,Columbus,IL
+899,738 Green First Avenue,2186220619,Columbus,IL
+194,76 East First Drive,1010219797,Corpus Christi,IN
+554,637 Milton Freeway,6973233621,Corpus Christi,IN
+594,60 White New Street,14240386,Corpus Christi,IN
+719,81 West Hague Drive,1225662958,Corpus Christi,IN
+60,97 Fabien Street,161155042,Corpus Christi,LA
+413,229 Milton Drive,3293683689,Corpus Christi,LA
+521,264 Clarendon Way,9378811597,Corpus Christi,LA
+566,97 South Fabien St.,5891479622,Corpus Christi,LA
+732,374 East Rocky Hague Way,7367549413,Corpus Christi,LA
+840,771 North White Clarendon Avenue,7173152529,Corpus Christi,LA
+911,569 North Fabien Street,9134208015,Corpus Christi,LA
+520,344 Second Parkway,4506208646,Corpus Christi,NE
+548,561 Rocky First St.,230700260,Corpus Christi,NE
+620,362 White New Blvd.,3538542600,Corpus Christi,NE
+887,94 Clarendon Road,8587064816,Corpus Christi,NE
+224,78 Old Street,1081823797,Dallas,CT
+350,517 Hague St.,8462464379,Dallas,CT
+420,54 North New Parkway,1050039348,Dallas,CT
+433,56 Old St.,2485474893,Dallas,CT
+473,58 South Nobel Way,4215402037,Dallas,CT
+550,846 South Hague Freeway,9481928056,Dallas,CT
+122,77 North First Freeway,6782037935,Dallas,OK
+142,703 North Green Nobel Way,8904278748,Dallas,OK
+700,945 Fabien Freeway,8020947035,Dallas,OK
+986,703 Rocky Fabien Road,2650007161,Dallas,OK
+995,35 Oak St.,8315014013,Dallas,OK
+35,742 South White New Way,4510180019,Dallas,WI
+85,334 White Fabien Avenue,6035188004,Dallas,WI
+354,93 Rocky Hague Blvd.,9524709508,Dallas,WI
+956,945 East Fabien Parkway,3580639198,Dallas,WI
+310,97 Clarendon Street,9709001878,Dayton,IL
+348,95 Green Nobel Freeway,6532022606,Dayton,IL
+629,41 New Way,4274176865,Dayton,IL
+733,225 Rocky Nobel Way,321496467,Dayton,IL
+965,774 East White Second Road,3748265907,Dayton,IL
+141,39 Hague Avenue,7701108834,Dayton,OK
+385,807 North Rocky Milton Street,3834587767,Dayton,OK
+947,770 West White Milton Blvd.,4802396740,Dayton,OK
+321,73 White Old Freeway,379615390,Denver,NV
+536,762 East First Parkway,3159354279,Denver,NV
+963,15 White Fabien Avenue,3702051716,Denver,NV
+208,53 Oak Blvd.,2524981608,Denver,WV
+565,187 Green New Drive,5173393963,Denver,WV
+973,45 Rocky First Road,6447574347,Denver,WV
+356,70 East Old St.,9413994596,Des Moines,NC
+431,729 Rocky First Blvd.,2927191434,Des Moines,NC
+662,922 East Nobel Freeway,708498014,Des Moines,NC
+75,76 Oak Road,5315071319,Des Moines,OH
+791,28 Fabien Freeway,3374123825,Des Moines,OH
+871,125 East Rocky Cowley Road,2383435950,Des Moines,OH
+18,54 White Hague Street,8645977021,Des Moines,RI
+100,467 Green Oak Street,1355581813,Des Moines,RI
+434,938 Old Boulevard,867740729,Des Moines,RI
+564,931 West First Way,7010396872,Des Moines,RI
+923,707 North White New St.,8713054035,Des Moines,RI
+106,918 Nobel Blvd.,2313270607,Detroit,KY
+399,79 East Nobel Way,7750826216,Detroit,KY
+461,296 Oak Way,10597610,Detroit,KY
+167,72 New Street,9508708878,Detroit,MN
+232,15 Old Boulevard,4343456168,Detroit,MN
+287,69 Milton Way,1781309986,Detroit,MN
+403,277 White Nobel St.,581075538,Detroit,MN
+437,446 East Second Blvd.,3132923700,Detroit,MN
+931,274 Green Old St.,1864658058,Detroit,MN
+131,612 Clarendon Freeway,2930735318,Detroit,VA
+216,52 West Old Boulevard,2134090729,Detroit,VA
+317,30 Oak Blvd.,5817589213,Detroit,VA
+639,389 South Green Hague Freeway,1350559357,Detroit,VA
+187,43 Second Freeway,3775131640,El Paso,FL
+573,820 North Fabien St.,6814621242,El Paso,FL
+801,408 Nobel Drive,5587131877,El Paso,FL
+619,922 White New Parkway,7164895049,El Paso,MO
+896,45 Green Old Freeway,5301457163,El Paso,MO
+120,922 New Street,8266494968,El Paso,OH
+478,77 Milton St.,2946736934,El Paso,OH
+498,83 Milton Avenue,3639736519,El Paso,OH
+596,82 Green Milton Drive,921072823,El Paso,OH
+79,24 Green Second Freeway,7407996683,Fort Wayne,AZ
+707,100 South Second Parkway,540330692,Fort Wayne,AZ
+756,64 East Cowley Parkway,775646383,Fort Wayne,AZ
+823,69 New Drive,5639850198,Fort Wayne,AZ
+868,343 Old Drive,3090323054,Fort Wayne,AZ
+119,152 South White New Street,9585111792,Fort Wayne,DE
+55,897 North Rocky Second Parkway,8178014653,Fort Worth,CO
+139,275 East Milton Parkway,3016593156,Fort Worth,CO
+215,999 North White Oak Boulevard,1994706620,Fort Worth,CO
+294,474 First Blvd.,9092751215,Fort Worth,CO
+192,47 Rocky Oak Drive,8327768360,Fort Worth,MA
+666,511 Oak Parkway,9251607862,Fort Worth,MA
+778,476 Second Boulevard,2671645931,Fort Worth,MA
+980,10 South Rocky Fabien Way,8764365461,Fort Worth,MA
+121,20 West Milton Street,8805476319,Fort Worth,UT
+481,83 White Cowley Street,6237875753,Fort Worth,UT
+717,39 North New Avenue,4011510374,Fort Worth,UT
+960,327 Rocky First Blvd.,9516062171,Fort Worth,UT
+89,405 South White Second St.,6982015371,Fremont,ID
+115,447 Rocky Nobel Street,7445101326,Fremont,ID
+275,14 Fabien St.,312235185,Fremont,ID
+193,74 New Drive,6368069672,Fremont,PA
+330,51 Old Avenue,5339749408,Fremont,PA
+932,910 East Fabien Avenue,6091945426,Fremont,PA
+42,543 White Nobel Blvd.,13615863,Fresno,MA
+94,698 White Milton Avenue,4580971528,Fresno,MA
+414,46 White Oak Freeway,8566383887,Fresno,MA
+633,785 Second Road,6290849069,Fresno,MA
+557,10 White First Avenue,4924434935,Fresno,UT
+575,12 Old Freeway,7206417770,Fresno,UT
+611,51 East Green Cowley Blvd.,2840179240,Fresno,UT
+807,403 Old Avenue,9714980505,Fresno,UT
+7,835 Cowley Street,8128978043,Garland,IA
+165,17 New Way,2914451784,Garland,IA
+375,58 Second Parkway,4827207313,Garland,IA
+447,70 West Green Cowley Parkway,6564898295,Garland,IA
+781,85 Rocky Milton Road,9938718274,Garland,IA
+906,58 Clarendon Street,2981278563,Garland,IA
+61,71 North Green Hague Way,6837714904,Garland,SD
+422,953 Green Second Parkway,1499612649,Garland,SD
+837,36 Milton Blvd.,4335593777,Garland,SD
+949,250 Rocky Nobel Parkway,350918763,Garland,SD
+992,568 South Nobel St.,8994859921,Garland,SD
+400,20 West Rocky Hague Way,8513906960,Glendale,CT
+453,828 Old Avenue,8196653234,Glendale,CT
+458,782 Rocky Oak Freeway,4316236047,Glendale,CT
+875,17 Green Second Way,8596186702,Glendale,CT
+885,14 North Oak Parkway,6674492793,Glendale,CT
+914,403 Green First Road,4750377345,Glendale,CT
+274,56 Oak St.,5917779594,Glendale,WI
+755,446 Second Drive,3453788286,Glendale,WI
+962,43 Fabien Blvd.,2223295739,Glendale,WI
+31,523 White Second Freeway,543883622,Grand Rapids,FL
+300,91 White Milton Freeway,5652155544,Grand Rapids,FL
+488,667 Old Parkway,3665311565,Grand Rapids,FL
+665,79 Milton Street,6772851269,Grand Rapids,FL
+725,784 New Way,8026843983,Grand Rapids,FL
+998,174 Green First Drive,6030401482,Grand Rapids,FL
+319,462 Cowley Avenue,7463315024,Grand Rapids,MO
+342,323 Cowley Road,2871988437,Grand Rapids,MO
+463,333 White Fabien Freeway,9209129659,Grand Rapids,MO
+945,103 White Hague Freeway,8153355898,Grand Rapids,MO
+982,92 Hague Blvd.,4579487511,Grand Rapids,MO
+45,763 South Oak Parkway,1405908898,Grand Rapids,OH
+357,139 Rocky Second Boulevard,9048155611,Grand Rapids,OH
+442,53 North Green Clarendon Avenue,4167219286,Grand Rapids,OH
+513,63 Cowley Freeway,9113236715,Grand Rapids,OH
+14,677 West White First Blvd.,6512309877,Greensboro,MO
+243,311 East White Oak Parkway,9306476524,Greensboro,OH
+340,16 New Avenue,6701008058,Greensboro,OH
+439,898 West Old St.,47924292,Greensboro,OH
+634,89 North Green Clarendon Parkway,5187154737,Greensboro,OH
+667,404 Old Drive,5216930504,Greensboro,OH
+901,76 White Nobel Drive,8972409328,Greensboro,OH
+346,160 South Hague Way,7928521750,Greensboro,RI
+20,38 Milton Way,9323141312,Hialeah,HI
+622,673 Rocky Oak Road,7495088463,Hialeah,HI
+158,34 Rocky Old Drive,7169807868,Hialeah,KS
+844,75 First Freeway,7579455431,Hialeah,KS
+183,590 East Second Way,6166801595,Hialeah,NM
+270,539 West Green Milton Freeway,6521105228,Hialeah,NM
+443,54 North Green Old Street,263741985,Hialeah,NM
+534,65 Nobel Avenue,2544962804,Hialeah,NM
+971,912 Nobel Avenue,7463194929,Hialeah,NM
+133,619 White Cowley Road,6645562462,Honolulu,GA
+552,581 Second Parkway,7764643586,Honolulu,GA
+917,751 Milton Road,3782259376,Honolulu,GA
+128,296 Green Oak Boulevard,9872862295,Honolulu,WI
+469,113 West Old Street,5682235621,Honolulu,WI
+551,330 Second Way,279807935,Honolulu,WI
+741,486 First Avenue,8074510034,Honolulu,WI
+411,15 First Street,8944695845,Houston,NJ
+576,928 South Second Avenue,7485759465,Houston,NJ
+691,95 Nobel Blvd.,3777456272,Houston,NJ
+831,32 Green Old Boulevard,5811358349,Houston,NJ
+278,22 Green Milton Street,4973038686,Houston,OR
+475,76 Clarendon St.,9755865648,Houston,OR
+655,46 Cowley Drive,1298506569,Houston,OR
+841,31 East Rocky Nobel Road,4298143186,Houston,OR
+997,37 Green Fabien Boulevard,2503615077,Houston,OR
+256,839 White Cowley Way,894386460,Indianapolis,IN
+441,420 Second Street,9703172927,Indianapolis,IN
+523,55 White Hague Freeway,9918467926,Indianapolis,IN
+771,856 Rocky Milton Road,6202345795,Indianapolis,IN
+28,79 West New Boulevard,7705354196,Indianapolis,MS
+429,69 South Fabien Boulevard,6959003687,Indianapolis,MS
+470,460 First Parkway,148601649,Indianapolis,MS
+721,233 Green Fabien Street,1642861995,Indianapolis,MS
+921,97 Milton Road,6437144067,Indianapolis,MS
+261,445 Green First Street,1071896045,Indianapolis,NE
+326,34 Hague Avenue,6552408974,Indianapolis,NE
+878,964 Green Fabien St.,3842668849,Indianapolis,NE
+912,97 Rocky Fabien Freeway,2902997983,Indianapolis,NE
+217,859 Rocky Cowley Parkway,4988200310,Jackson,AZ
+456,15 Oak Avenue,6256629610,Jackson,AZ
+718,258 White Milton St.,9034228501,Jackson,AZ
+984,85 Green First Boulevard,274336228,Jackson,AZ
+83,166 Green Oak Street,9177441300,Jackson,MD
+147,98 White Clarendon Street,1530873074,Jackson,MD
+716,410 Oak Drive,5281574386,Jackson,MD
+910,24 Fabien Boulevard,6378738727,Jackson,MD
+127,860 Clarendon Street,8410228566,Jacksonville,MI
+425,85 White First Freeway,1126937231,Jacksonville,MI
+451,21 Old Freeway,681394883,Jacksonville,MI
+770,632 White Milton St.,8724190682,Jacksonville,MI
+222,763 West Rocky First Boulevard,9396909136,Jacksonville,NH
+522,627 Green Second St.,2566398033,Jacksonville,NH
+790,66 South Hague Way,4081490901,Jacksonville,NH
+168,80 Milton Blvd.,4444860735,Jacksonville,TN
+309,22 Oak Drive,5789367887,Jacksonville,TN
+767,31 Green First Parkway,1769607607,Jacksonville,TN
+231,390 Rocky Nobel Avenue,2362115423,Jersey,NC
+239,418 White Milton Road,6996264407,Jersey,NC
+448,30 South Green Hague Freeway,4524685017,Jersey,NC
+828,14 Cowley Blvd.,7014443272,Jersey,NC
+902,71 South Rocky Milton Drive,9853191510,Jersey,NC
+104,664 White Hague Avenue,3031847436,Jersey,VT
+184,852 East Fabien Way,5835768825,Jersey,VT
+518,36 Cowley St.,8148479384,Jersey,VT
+615,240 White Clarendon Boulevard,7667467621,Jersey,VT
+991,37 Rocky Cowley Avenue,9730712463,Jersey,VT
+86,559 Second Way,2271073366,Jersey,WY
+182,11 North Green Oak Parkway,5514792073,Jersey,WY
+495,72 Green Second Drive,1605239358,Jersey,WY
+80,58 North White Clarendon Avenue,3405095934,Kansas,ME
+152,249 Oak Avenue,17060570,Kansas,ME
+265,71 White Old St.,8666595490,Kansas,ME
+199,62 Rocky New Boulevard,1617859820,Kansas,MI
+739,555 South White First Way,50759156,Kansas,MI
+834,735 Green Fabien Road,3115956761,Kansas,MI
+903,709 White Hague Boulevard,5903668863,Kansas,MI
+103,240 West Hague Freeway,3840583764,Kansas,NH
+196,953 North Fabien Parkway,4697321304,Kansas,NH
+499,31 Old Boulevard,8499129717,Kansas,NH
+883,72 Green New Parkway,2400667185,Las Vegas,AL
+318,854 Cowley Avenue,5605138869,Las Vegas,ME
+627,607 North Old Blvd.,380936498,Las Vegas,ME
+697,280 White Fabien Way,2657633545,Las Vegas,ME
+764,35 Green Old St.,5302035467,Las Vegas,ME
+815,54 Fabien St.,6907083387,Las Vegas,ME
+223,29 Second Way,3146763493,Las Vegas,NH
+515,653 North New Street,4236767991,Las Vegas,NH
+810,11 North Rocky Old Way,6310682241,Las Vegas,NH
+296,681 North Hague Way,2131875690,Lincoln,AR
+816,91 Rocky Clarendon Road,6418951931,Lincoln,AR
+145,918 West Second Street,9384915006,Lincoln,MN
+597,862 Cowley Road,4072460075,Lincoln,MN
+646,193 Oak Way,2823037228,Lincoln,MN
+983,714 Green Nobel Street,5699413181,Lincoln,MN
+22,62 Green New Freeway,1722137577,Lincoln,TX
+233,340 Hague Blvd.,2444768827,Lincoln,TX
+483,637 North Green Hague Way,4984473943,Lincoln,TX
+530,966 East Rocky Old Blvd.,9630315181,Lincoln,TX
+836,801 East Second Street,4083778108,Lincoln,TX
+313,166 West Green Milton Blvd.,5058746818,Little Rock,AR
+358,692 Milton Parkway,1839294047,Little Rock,AR
+387,700 Clarendon Road,4463504073,Little Rock,AR
+595,34 Green Hague Street,3225170615,Little Rock,AR
+846,922 Rocky New Street,2178505767,Little Rock,AR
+509,912 White Old Boulevard,3507655363,Little Rock,MN
+209,73 Fabien St.,1796072770,Little Rock,VA
+252,24 New Freeway,7821383540,Little Rock,VA
+640,735 Nobel Freeway,276551021,Little Rock,VA
+805,41 Green Second Avenue,3078743666,Little Rock,VA
+349,80 Cowley Avenue,3835889870,Long Beach,MI
+386,21 First Parkway,6720628737,Long Beach,MI
+851,759 Green New Drive,2271042797,Long Beach,MI
+93,95 New Blvd.,3842226680,Long Beach,TN
+229,73 Rocky Clarendon Way,8078042534,Long Beach,TN
+427,631 White Nobel Street,793577653,Long Beach,TN
+467,22 Milton Street,1687877320,Long Beach,TN
+832,352 North Fabien Way,257606026,Long Beach,TN
+271,34 Green Cowley Street,38869265,Los Angeles,HI
+380,184 Fabien Parkway,7123527945,Los Angeles,HI
+395,50 Milton Blvd.,6314814317,Los Angeles,HI
+504,675 Cowley Way,5795447331,Los Angeles,HI
+171,879 Milton Freeway,4368430337,Los Angeles,KS
+320,81 South Cowley Drive,5695083023,Los Angeles,KS
+580,763 East Fabien Freeway,2027822633,Los Angeles,KS
+684,87 Cowley Parkway,9071105349,Los Angeles,KS
+117,470 North White Clarendon Parkway,4217654517,Louisville,AK
+150,82 White New Boulevard,5957993663,Louisville,AK
+687,87 Oak Freeway,2919855747,Louisville,AK
+728,945 Hague Parkway,4891286323,Louisville,AK
+877,619 East Green Cowley Drive,1965300347,Louisville,AK
+17,126 West Rocky Hague Way,4899446657,Louisville,ID
+472,41 Cowley Road,9538817663,Louisville,ID
+704,176 Old Boulevard,3016896344,Louisville,ID
+855,664 Second Freeway,6312816788,Louisville,ID
+480,23 Hague Drive,8309562452,Louisville,PA
+538,675 Green Cowley Street,6259052359,Louisville,PA
+676,97 Nobel Boulevard,4956566139,Louisville,PA
+714,640 Cowley St.,4353902792,Louisville,PA
+818,283 Rocky Milton Blvd.,3596126007,Louisville,PA
+333,49 South Green Cowley Boulevard,4179878915,Lubbock,ID
+392,31 North Milton Way,3562923133,Lubbock,ID
+857,498 White New Drive,739137453,Lubbock,ID
+937,69 East White First Drive,6843660897,Lubbock,ID
+3,271 Fabien Parkway,5445108934,Lubbock,IL
+247,379 Rocky Hague Street,6839406998,Lubbock,IL
+750,73 First Way,6627633442,Lubbock,IL
+50,464 West Clarendon Avenue,7869082809,Lubbock,PA
+154,790 Old Blvd.,8339385857,Lubbock,PA
+690,353 Nobel Blvd.,5862171511,Lubbock,PA
+806,596 Milton Way,2784321432,Lubbock,PA
+849,673 Rocky Second Street,2459611350,Lubbock,PA
+30,20 New Drive,6491774171,Madison,IA
+110,333 New Parkway,5038519605,Madison,IA
+266,93 Oak Road,7227066256,Madison,IA
+819,97 Green Fabien St.,8008688382,Madison,IA
+108,525 White Milton Boulevard,866632735,Madison,SC
+177,49 First Drive,5075239864,Madison,SC
+670,60 Oak Parkway,1959251639,Madison,SC
+919,242 South Oak Way,9999939781,Madison,SC
+556,789 New St.,7653498224,Madison,SD
+740,97 Second Parkway,9962300000,Madison,SD
+870,27 South First Drive,8450230049,Madison,SD
+890,111 South Rocky Cowley Boulevard,956157441,Madison,SD
+918,68 Cowley Boulevard,8749461384,Madison,SD
+951,49 East Green Cowley Way,2711162604,Madison,SD
+285,631 South Cowley Street,3986967716,Memphis,FL
+363,745 Green New Avenue,7639167456,Memphis,FL
+656,536 South Green Old Drive,8332320473,Memphis,FL
+39,47 First Parkway,5581176796,Memphis,MT
+88,312 Cowley Freeway,6071997096,Memphis,MT
+693,12 South Green Hague Street,3091923528,Memphis,MT
+44,72 West White Cowley Blvd.,3281620624,Mesa,AK
+238,469 Milton Drive,9095500860,Mesa,AK
+302,10 Oak Avenue,4195448281,Mesa,AK
+926,116 Nobel Way,1157672045,Mesa,AK
+989,36 East Oak Parkway,2846988400,Mesa,AK
+853,47 Green Fabien Road,9009176987,Mesa,ND
+577,217 Green Second St.,588681761,Miami,MT
+591,73 Old Freeway,2265165410,Miami,MT
+97,870 Milton Avenue,6800420703,Miami,NY
+444,67 East Hague Freeway,5797836013,Miami,NY
+547,448 South Hague St.,7144482614,Miami,NY
+900,383 Cowley Road,3293446904,Miami,NY
+985,32 Green First Drive,6009055054,Miami,NY
+111,25 Green Nobel Freeway,7106544560,Miami,WA
+113,32 South Milton Road,3848420906,Miami,WA
+758,735 Oak Way,9576625121,Miami,WA
+913,457 West Rocky Milton Boulevard,2116668351,Miami,WA
+934,23 Rocky Second Street,8794821600,Miami,WA
+48,154 White New Way,4074116049,Milwaukee,MT
+220,754 White Cowley Drive,78948206,Milwaukee,MT
+237,781 West Rocky Oak Street,5665510901,Milwaukee,MT
+393,64 Nobel Boulevard,6765247993,Milwaukee,MT
+600,85 Old Avenue,9162882462,Milwaukee,MT
+735,38 West Green Second Avenue,5413001203,Milwaukee,MT
+390,44 Oak Road,3146039203,Milwaukee,NY
+404,20 South New Drive,9855387005,Milwaukee,NY
+683,77 Fabien Drive,9830853777,Milwaukee,NY
+41,17 Hague Street,8739725839,Minneapolis,NJ
+314,95 Clarendon St.,32554794,Minneapolis,NJ
+496,285 South Green Milton Road,2800407594,Minneapolis,NJ
+680,614 Rocky Nobel Street,3761160164,Minneapolis,NJ
+821,469 West Hague Drive,5340790672,Minneapolis,NJ
+135,815 Cowley Blvd.,2718959023,Minneapolis,NV
+230,14 White Old Parkway,7942788367,Minneapolis,NV
+702,90 White Milton Street,8641476201,Minneapolis,NV
+163,199 New Parkway,9297654931,Minneapolis,OR
+466,306 East New Avenue,9754933321,Minneapolis,OR
+581,48 South Oak Way,7245666688,Minneapolis,OR
+794,68 Green First Freeway,6078605865,Minneapolis,OR
+908,238 Green New Freeway,6319637456,Minneapolis,OR
+38,182 Cowley Road,3773357602,Mobile,NC
+332,12 West Clarendon St.,8492884281,Mobile,NC
+412,950 Fabien Drive,5579015017,Mobile,NC
+696,54 White New Way,7158056690,Mobile,NC
+179,72 Second Road,18809364,Mobile,OH
+291,14 White Cowley Avenue,6689184088,Mobile,OH
+468,503 South Rocky Second Road,516268105,Mobile,OH
+500,47 Rocky Hague Parkway,7874672255,Mobile,OH
+749,85 White Second Way,2317303853,Mobile,OH
+867,19 First Freeway,1535662699,Mobile,OH
+280,388 South Rocky New Way,2395554236,Mobile,RI
+383,49 North Second Way,1733915832,Mobile,RI
+435,49 West White Cowley Road,1743165781,Mobile,RI
+630,877 Clarendon Way,9271035449,Mobile,RI
+766,13 Cowley Parkway,9639284605,Mobile,RI
+808,951 East Rocky Clarendon Road,4018807887,Mobile,RI
+288,640 Green Nobel Way,3065420117,Montgomery,KY
+558,54 Fabien Freeway,6821741183,Montgomery,KY
+854,208 West Cowley Boulevard,8298490370,Montgomery,KY
+190,853 Hague St.,4341803137,Montgomery,SC
+347,872 Cowley Parkway,6074831845,Montgomery,SC
+657,254 Green Fabien Parkway,3402317392,Montgomery,SC
+772,77 Rocky First Drive,1046191673,Montgomery,SC
+172,301 West Nobel Blvd.,8560364808,Montgomery,VA
+479,15 Rocky First Avenue,6738834712,Washington,ME
+206,817 South White Hague Road,6282026128,Montgomery,VA
+379,14 West Rocky Nobel St.,6962387439,Montgomery,VA
+972,89 Hague Drive,235141776,Montgomery,VA
+156,732 West Green Second Parkway,2011482200,Nashville,IN
+367,932 Clarendon Parkway,2911828763,Nashville,IN
+835,353 Rocky Nobel Avenue,2004502400,Nashville,IN
+948,86 Second Blvd.,5575245308,Nashville,IN
+228,74 Rocky Hague Parkway,3128740837,Nashville,LA
+368,45 Fabien Way,1251595128,Nashville,LA
+692,313 White Oak Way,1075320259,Nashville,LA
+930,36 Old Street,4670051101,Nashville,LA
+979,23 Hague Avenue,6116230830,Nashville,LA
+34,38 Rocky Cowley Street,1389073986,Nashville,UT
+77,57 Rocky Cowley Way,5060032460,Nashville,UT
+207,44 East Rocky Oak Boulevard,3175738107,Nashville,UT
+419,91 Nobel St.,776941574,Nashville,UT
+524,47 Rocky Clarendon Parkway,3593400802,Nashville,UT
+2,29 West Milton St.,7440321717,New Orleans,IN
+329,757 Green New Boulevard,6465816538,New Orleans,IN
+682,58 Nobel Freeway,2560675664,New Orleans,IN
+978,244 Milton Road,5444578485,New Orleans,IN
+84,508 South First St.,411852570,New Orleans,LA
+553,108 West Cowley Parkway,3861299024,New Orleans,LA
+768,170 White Oak Freeway,7756041382,New Orleans,LA
+54,466 South White Fabien Freeway,9188866014,New York,AR
+689,64 New Freeway,8462838130,New York,AR
+36,81 Hague Drive,7225690527,New York,TX
+359,557 Old Avenue,859469356,New York,TX
+673,985 West New Avenue,6756919714,New York,TX
+845,96 Oak Parkway,8729478848,New York,TX
+944,17 Fabien Blvd.,6033251001,New York,TX
+9,912 First Freeway,4481703541,New York,VT
+197,371 First Road,3945095539,New York,VT
+114,579 East Green Fabien Boulevard,6704074214,Newark,DE
+267,427 Green Cowley Drive,8629236620,Newark,DE
+729,624 Nobel Freeway,5115841679,Newark,DE
+779,40 East White Oak Blvd.,9970896459,Newark,DE
+824,73 White Oak Way,17248622,Newark,DE
+74,59 Cowley Avenue,3463627075,Newark,GA
+96,95 Second Road,7114716033,Newark,GA
+677,224 Second Boulevard,7025925859,Newark,GA
+694,321 Rocky Hague Way,2450008252,Newark,GA
+959,987 Green Old St.,1596756652,Newark,GA
+13,773 North Rocky Milton Parkway,369230948,Norfolk,FL
+24,909 Rocky Clarendon Boulevard,7285571996,Norfolk,FL
+248,83 North Rocky Fabien Parkway,5059185913,Norfolk,FL
+616,40 First Drive,4807023191,Norfolk,FL
+242,63 White Second Road,6480972352,Norfolk,MT
+942,26 New Drive,1565540592,Norfolk,MT
+954,867 Fabien Freeway,4601595836,Norfolk,MT
+961,714 Clarendon Drive,1841434542,Norfolk,MT
+112,96 New St.,3524994571,Norfolk,NY
+388,213 Hague Parkway,4477096799,Norfolk,NY
+464,234 Clarendon Parkway,2695640385,Norfolk,NY
+663,615 Oak Boulevard,6534598852,Norfolk,NY
+724,835 Milton Road,4887452605,Norfolk,NY
+180,283 Green Cowley Parkway,4296383087,Oakland,ME
+281,17 Clarendon Drive,2046051867,Oakland,ME
+598,298 West Rocky Second St.,456861457,Oakland,ME
+927,469 Hague Street,6310016841,Oakland,ME
+967,604 East New St.,7064843972,Oakland,ME
+1,78 Fabien Freeway,2391674627,Oakland,NH
+362,673 Rocky Second Way,8959051354,Oakland,NH
+532,125 Old Freeway,3690637932,Oakland,NH
+722,61 Nobel Boulevard,8305477389,Oakland,NH
+759,959 Second Street,8202057474,Oakland,NH
+712,710 Rocky Oak Road,1895043911,Oklahoma,AK
+774,838 Second Blvd.,1521951967,Oklahoma,AK
+862,88 Hague Road,7518158215,Oklahoma,AK
+166,58 West Cowley Street,7233287860,Oklahoma,ND
+491,36 Oak Avenue,5385274744,Oklahoma,ND
+817,707 Cowley Boulevard,5249044026,Oklahoma,ND
+337,170 White Hague Parkway,6104403566,Oklahoma,NM
+490,63 Rocky Old Road,2633132605,Oklahoma,NM
+508,88 First Boulevard,3227823243,Oklahoma,NM
+686,86 East New St.,2955939229,Oklahoma,NM
+894,10 Hague Parkway,2016956169,Oklahoma,NM
+137,631 South Rocky Second Way,8168803940,Omaha,AZ
+514,57 West Fabien Freeway,1977528620,Omaha,AZ
+699,76 East Green Clarendon Parkway,8684830246,Omaha,AZ
+829,926 Fabien Way,6524660883,Omaha,AZ
+258,77 Second Road,8421181090,Omaha,MD
+324,48 Milton Boulevard,1648829265,Omaha,MD
+737,373 North Rocky Fabien Way,1738512534,Omaha,MD
+773,95 First Drive,6444314259,Omaha,MD
+915,568 Clarendon Way,4443639790,Omaha,MD
+19,83 West New Way,1718725703,Omaha,MS
+745,268 First Way,3369617388,Omaha,MS
+757,498 East Milton Drive,258443588,Omaha,MS
+760,818 Clarendon Parkway,4117536278,Omaha,MS
+143,686 Fabien Blvd.,124600141,Philadelphia,FL
+742,758 First St.,9889606406,Philadelphia,FL
+26,48 Oak Freeway,8947166512,Philadelphia,MO
+95,74 Milton St.,7269181155,Philadelphia,MO
+174,707 Green First Blvd.,4010237786,Philadelphia,MO
+738,92 West White New Road,8800819212,Philadelphia,MO
+164,734 South Fabien St.,4617983377,Phoenix,DE
+637,75 West Green Second Parkway,8109958797,Phoenix,DE
+27,976 Green Fabien Blvd.,5573242986,Phoenix,GA
+123,26 Clarendon St.,1901997269,Phoenix,GA
+418,578 East Second Drive,6304886874,Phoenix,GA
+440,897 Oak Boulevard,8763879259,Phoenix,GA
+517,25 East Oak Way,2507133999,Phoenix,GA
+73,98 South First Drive,4200977391,Phoenix,WI
+746,603 North Green Oak Freeway,4913311260,Phoenix,WI
+895,52 Green First Blvd.,1035244128,Phoenix,WI
+219,48 Green Milton Blvd.,9244318414,Pittsburgh,CO
+273,70 Rocky Hague Street,8477894096,Pittsburgh,CO
+643,84 Oak Street,2500311841,Pittsburgh,CO
+798,44 Milton Drive,5589030928,Pittsburgh,CO
+976,645 Second Freeway,8045252051,Pittsburgh,CO
+259,48 North Green Hague Freeway,6711513170,Pittsburgh,WV
+283,602 West Old Drive,3916301875,Pittsburgh,WV
+284,88 White Oak Parkway,2175548316,Pittsburgh,WV
+574,13 Old Avenue,4000848642,Pittsburgh,WV
+661,10 Clarendon Street,2585568460,Pittsburgh,WV
+365,82 North Rocky Clarendon Road,2259596636,Portland,IN
+621,552 Fabien Street,2941376286,Portland,IN
+65,36 Clarendon Way,5516177967,Portland,NE
+290,218 South Old St.,4319206427,Portland,NE
+462,85 Milton Blvd.,2947968258,Portland,NE
+502,136 West White New Blvd.,6552697140,Portland,NE
+996,84 Milton Avenue,8231218741,Portland,NE
+98,344 Green First St.,3681243643,Raleigh,NJ
+198,646 Rocky Clarendon St.,2732657400,Raleigh,NJ
+593,739 Green Old St.,2448090282,Raleigh,NJ
+743,285 South Clarendon Boulevard,535453923,Raleigh,NJ
+820,149 First Parkway,9179050949,Raleigh,NJ
+369,94 First Street,7919425743,Raleigh,OR
+391,134 Cowley Freeway,8941561017,Raleigh,OR
+688,179 Green Second Freeway,7614953948,Raleigh,OR
+446,83 Old Avenue,9651582296,Raleigh,TN
+493,60 New Parkway,4295175731,Raleigh,TN
+939,54 Fabien Drive,6657936567,Raleigh,TN
+299,767 Old Road,8999547946,Richmond,AK
+401,65 North Green Second Parkway,4573866245,Richmond,AK
+642,867 Green Cowley Parkway,7378858061,Richmond,AK
+417,16 Oak Avenue,8012319147,Richmond,ND
+809,13 Hague Way,9226924712,Richmond,ND
+968,837 East First Road,427483135,Richmond,ND
+63,34 Fabien Freeway,2027473258,Richmond,PA
+186,88 East Hague Blvd.,4601497279,Richmond,PA
+706,15 White Clarendon Way,8693520158,Richmond,PA
+23,496 West Green Hague Freeway,6749188273,Riverside,NC
+211,45 Clarendon Way,9040881619,Riverside,NC
+263,324 Rocky Nobel Drive,6746133288,Riverside,NC
+859,216 East New Freeway,9952614998,Riverside,NC
+505,334 Nobel Street,520024648,Riverside,RI
+802,97 Nobel Parkway,8050702821,Riverside,RI
+941,102 Green Clarendon St.,866133302,Riverside,RI
+76,618 East Fabien Parkway,9685286634,Riverside,WY
+102,142 East White Hague Way,5609081371,Riverside,WY
+307,262 East Oak Street,7379147638,Riverside,WY
+406,607 North Second Freeway,9624325923,Riverside,WY
+555,54 South White First Boulevard,8151852932,Riverside,WY
+850,619 Rocky Hague Drive,5090814507,Riverside,WY
+893,719 New Road,1516683420,Riverside,WY
+87,84 Cowley Boulevard,9257530557,Rochester,NV
+91,59 East Green New Boulevard,4573256657,Rochester,NV
+226,66 Nobel Drive,444853351,Rochester,NV
+599,54 Old Street,9440279931,Rochester,NV
+946,938 South Fabien St.,7441501185,Rochester,NV
+969,38 Rocky Hague Way,4359283028,Rochester,NV
+125,419 New Freeway,33573389,Rochester,OR
+289,58 White Old Street,3548609155,Rochester,OR
+839,270 East Cowley Parkway,1839630358,Rochester,OR
+144,95 Second Freeway,1294649798,Sacramento,CA
+213,85 Rocky Milton Drive,9697172095,Sacramento,CA
+604,44 Oak Drive,5106828144,Sacramento,CA
+628,388 Hague Blvd.,4382675754,Sacramento,CA
+736,758 White Nobel Blvd.,6250334040,Sacramento,CA
+203,42 Green New Boulevard,6218468732,Sacramento,WA
+625,632 Hague Parkway,69096536,Sacramento,WA
+920,689 White Oak Boulevard,7821220262,Sacramento,WA
+67,44 Old Road,9173240726,San Antonio,MD
+668,177 Hague Boulevard,169315692,San Antonio,MD
+200,57 Rocky First Parkway,414960826,San Antonio,MS
+614,16 Green Oak Parkway,4148252443,San Antonio,MS
+710,726 East Green Oak Boulevard,5251895295,San Antonio,MS
+827,64 Milton Drive,7816344048,San Antonio,MS
+162,891 White Hague Avenue,2221651913,San Diego,AL
+381,127 Rocky Second Parkway,6395693049,San Diego,AL
+528,94 Nobel Way,1094854074,San Diego,AL
+582,92 North Green Milton Freeway,5689902232,San Diego,AL
+47,34 Clarendon Avenue,6326671155,San Diego,IA
+181,330 Rocky Nobel Street,3425736162,San Diego,IA
+727,76 Green Milton Road,7086362223,San Diego,IA
+234,536 Green Nobel Freeway,3924909740,San Diego,SD
+260,132 White Cowley Blvd.,4081591491,San Diego,SD
+459,235 White Hague Street,2573431125,San Diego,SD
+486,41 North Rocky Second Way,3593147925,San Diego,SD
+397,627 Rocky Old Road,1265158185,San Francisco,MD
+436,99 East Milton Drive,5153027371,San Francisco,MD
+952,792 Oak Avenue,6988400971,San Francisco,MD
+988,770 Fabien Boulevard,6633476479,San Francisco,MD
+776,12 White Oak Drive,5233124917,San Francisco,MS
+793,92 Cowley Drive,7636064948,San Francisco,MS
+955,59 Green Milton Avenue,6167237173,San Francisco,MS
+173,983 Hague Drive,7389812284,San Francisco,NE
+549,424 Milton Drive,3281954642,San Francisco,NE
+856,34 White New Freeway,3685284183,San Francisco,NE
+897,80 White Second St.,9907750859,San Francisco,NE
+99,66 West Hague Way,6575721243,San Jose,AL
+485,588 White New Road,2165229897,San Jose,AL
+650,203 First Freeway,848800699,San Jose,AL
+713,660 White Clarendon Freeway,8677752631,San Jose,AL
+848,136 West First Street,6827736436,San Jose,AL
+201,70 East White Oak Parkway,1006243010,San Jose,IA
+204,235 Second St.,152269043,San Jose,IA
+613,65 Hague Freeway,4348447248,San Jose,IA
+957,822 Fabien Parkway,5058155341,San Jose,IA
+293,860 Second St.,9047232167,San Jose,ME
+618,11 East Second Parkway,3743083952,San Jose,ME
+711,770 Rocky Oak Drive,1542937262,San Jose,ME
+512,895 Rocky Hague St.,6802273549,Santa Ana,LA
+647,48 East Fabien Street,2556198427,Santa Ana,LA
+842,376 East Clarendon Blvd.,6606173245,Santa Ana,LA
+924,144 White Old Blvd.,4247581756,Santa Ana,LA
+335,58 North Nobel St.,458019061,Santa Ana,UT
+351,86 Green New Drive,7129235004,Santa Ana,UT
+430,760 Green Hague Blvd.,1126366023,Santa Ana,UT
+879,718 East Fabien Parkway,858170175,Santa Ana,UT
+916,856 Hague Road,1626894526,Santa Ana,UT
+975,614 West Old St.,2917434920,Santa Ana,UT
+235,84 Hague Boulevard,7586899195,Seattle,HI
+603,20 Fabien Boulevard,1054312849,Seattle,HI
+775,624 Milton Parkway,1397042515,Seattle,HI
+789,67 New Street,4852675229,Seattle,HI
+109,82 Hague St.,4358305017,Seattle,ND
+344,58 West Rocky Cowley Drive,2522153579,Seattle,ND
+792,78 New Avenue,2545452688,Seattle,ND
+904,185 Green Nobel Blvd.,2606483716,Seattle,ND
+43,973 Clarendon St.,7690663271,Seattle,NM
+371,99 Nobel Blvd.,4937476130,Seattle,NM
+382,86 White Clarendon Boulevard,2165930012,Seattle,NM
+546,957 East Hague St.,7215694226,Seattle,NM
+935,420 North Hague Freeway,3157005110,Seattle,NM
+37,36 White Old Avenue,1539043314,Shreveport,TX
+161,21 Rocky Milton Parkway,1489409055,Shreveport,TX
+188,14 Rocky Hague Parkway,4796537348,Shreveport,TX
+450,95 White Clarendon Street,7322379511,Shreveport,TX
+685,103 North Oak Way,5512362370,Shreveport,TX
+999,30 Old St.,4341809993,Shreveport,TX
+101,241 Rocky Second St.,4387870474,Shreveport,VT
+272,949 White Nobel Parkway,8829099982,Shreveport,VT
+301,347 East Green Old Avenue,2670908000,Shreveport,VT
+334,59 East New Avenue,8626955651,Shreveport,VT
+423,596 Cowley Parkway,7315847011,Shreveport,VT
+675,961 Green New Boulevard,3019755311,Shreveport,WY
+872,25 Rocky Cowley Drive,1038674941,Shreveport,WY
+58,130 East Oak Boulevard,6147573943,Spokane,NJ
+257,72 Old Drive,5205503845,Spokane,NJ
+543,631 Oak St.,7336201779,Spokane,NJ
+559,77 Rocky Clarendon Way,2218357376,Spokane,NJ
+928,26 West Rocky Oak Parkway,3484431292,Spokane,NJ
+57,690 East Rocky First Parkway,8077847563,Spokane,TN
+325,812 Rocky Fabien Boulevard,4433757956,Spokane,TN
+377,94 West White Cowley Avenue,860318086,Spokane,TN
+981,96 Clarendon Way,2452486455,Spokane,TN
+254,24 Old Street,584682033,St. Louis,NC
+282,216 East White Oak Way,4134156418,St. Louis,NC
+525,81 North Clarendon Street,4720203894,St. Louis,NC
+892,69 Rocky Cowley Drive,1885290882,St. Louis,NC
+202,403 North Rocky Nobel Road,7491723264,St. Louis,RI
+210,129 Rocky First Parkway,3770208341,St. Louis,RI
+777,995 South Hague Boulevard,2480823627,St. Louis,RI
+884,998 Clarendon Blvd.,4488485533,St. Louis,RI
+943,19 Hague Way,8682568218,St. Louis,RI
+389,898 Green Second Drive,691210241,St. Louis,WY
+454,835 White Hague St.,8461891230,St. Louis,WY
+950,640 Rocky Old Blvd.,7720043391,St. Louis,WY
+132,648 North Fabien Blvd.,6167376533,St. Paul,CT
+245,99 East White Second Parkway,5494719660,St. Paul,CT
+305,145 Hague Way,7548521457,St. Paul,CT
+681,483 Rocky Second Boulevard,9023448597,St. Paul,CT
+298,19 North Hague Drive,4106778330,St. Paul,GA
+632,678 White Old Boulevard,6996210230,St. Paul,GA
+994,721 Old Boulevard,6016025459,St. Paul,GA
+249,96 Rocky Old Road,7539603604,St. Paul,WI
+609,58 West Rocky Old Avenue,8965933174,St. Paul,WI
+660,219 Rocky Clarendon Parkway,5963328011,St. Paul,WI
+669,655 South New Boulevard,845070221,St. Paul,WI
+800,87 Clarendon Blvd.,9975963670,St. Paul,WI
+297,343 Hague Avenue,9193366730,St. Petersburg,CT
+376,98 East Green Fabien Freeway,4524611389,St. Petersburg,CT
+264,336 First Boulevard,4843518875,St. Petersburg,OK
+489,85 Oak Street,4784369498,St. Petersburg,OK
+541,93 East Green Nobel Boulevard,8843286557,St. Petersburg,OK
+780,32 North Hague Drive,9748231562,St. Petersburg,OK
+52,137 Green Nobel St.,4327333994,Stockton,ND
+81,45 Second Boulevard,7642963537,Stockton,ND
+531,51 Rocky Nobel Road,9089323839,Stockton,ND
+409,261 North Green Milton Drive,929125853,Stockton,NM
+474,681 Oak Blvd.,6753883808,Stockton,NM
+476,27 Rocky Old Way,3325290792,Stockton,NM
+588,17 East Rocky Fabien Parkway,7774123473,Stockton,NM
+608,61 South Green Clarendon Road,349241455,Stockton,NM
+396,32 White Oak Boulevard,8665655429,Tacoma,ID
+484,196 Milton Blvd.,8253760179,Tacoma,ID
+507,654 White Oak St.,9202301418,Tacoma,ID
+8,35 West First St.,2436605913,Tacoma,IL
+72,773 Old Parkway,3798666297,Tacoma,OK
+236,18 Rocky Second Way,4664098845,Tacoma,OK
+308,63 Milton Drive,2657741569,Tacoma,OK
+786,113 Cowley Drive,405380752,Tacoma,OK
+250,126 Milton Street,6668518555,Tampa,MS
+428,19 Old Street,9772675042,Tampa,MS
+769,81 North White Oak Avenue,1617276497,Tampa,MS
+5,97 Hague Blvd.,1110262512,Tampa,NE
+62,154 Clarendon Street,2798783819,Tampa,NE
+178,25 South Oak Street,5494757214,Tampa,NE
+460,126 West Rocky Cowley Boulevard,2022785435,Tampa,NE
+787,850 Old Blvd.,7842730925,Tampa,NE
+492,765 Hague Way,7269921016,Toledo,KY
+540,54 West Rocky New Way,971267609,Toledo,KY
+861,439 West Clarendon Parkway,2833038606,Toledo,KY
+905,65 White Fabien Street,8208532952,Toledo,KY
+533,964 West White First Freeway,1294503843,Toledo,SC
+652,76 Cowley Drive,3904056164,Toledo,SC
+703,41 Milton Street,8799867705,Toledo,SC
+977,44 Rocky Hague Road,6197751702,Toledo,SC
+286,142 Rocky Nobel St.,434436328,Toledo,SD
+658,43 Second Boulevard,3552741504,Toledo,SD
+864,643 West Fabien Way,4017046350,Toledo,SD
+129,467 Cowley Street,3604391596,Tucson,MI
+384,963 Cowley Drive,8128393809,Tucson,MI
+671,198 Old Boulevard,7430300197,Tucson,MI
+747,24 Old Blvd.,4693652436,Tucson,MI
+715,36 Milton Blvd.,1554474457,Tucson,NJ
+762,33 White Fabien Street,7272750543,Tucson,NJ
+812,77 Old Avenue,5390576065,Tucson,NJ
+246,249 West Rocky First St.,7254266395,Tucson,TN
+494,96 White Clarendon Road,8479281998,Tucson,TN
+638,26 New Freeway,4774457603,Tucson,TN
+155,93 North Hague Street,6080555184,Tulsa,HI
+586,25 West First Blvd.,4576326468,Tulsa,HI
+869,667 Milton Drive,1704488843,Tulsa,HI
+953,251 Cowley Parkway,9187446222,Tulsa,HI
+612,42 Green Second Boulevard,9203761787,Tulsa,NM
+966,146 Green First Street,468022060,Tulsa,NM
+32,39 Cowley Blvd.,2183151852,Virginia Beach,CO
+153,961 Rocky Oak Freeway,7373528060,Virginia Beach,CO
+295,73 South Green Clarendon Street,6353146708,Virginia Beach,CO
+519,262 First St.,2867333450,Virginia Beach,CO
+852,22 White Cowley Avenue,6959775457,Virginia Beach,CO
+940,181 Cowley Boulevard,3949867876,Virginia Beach,CO
+993,16 White Old Freeway,1801881793,Virginia Beach,CO
+416,55 White First Drive,1019953908,Virginia Beach,MA
+477,79 White Nobel Street,9217995914,Virginia Beach,MA
+501,93 Second Freeway,2867372007,Virginia Beach,MA
+623,238 Oak Avenue,5862514219,Virginia Beach,MA
+701,401 West New Road,9645286212,Virginia Beach,MA
+268,667 West White Nobel Road,2064316270,Washington,AL
+12,11 Second Way,1856148708,Washington,ME
+511,504 North Rocky Fabien Street,8871914912,Washington,ME
+138,45 New Way,2101873905,Wichita,AK
+568,688 Clarendon Blvd.,7213569608,Wichita,AK
+583,750 South Cowley Way,3477842340,Wichita,AK
+782,123 Clarendon Street,200994827,Wichita,AK
+49,985 White Milton Drive,4039125314,Wichita,PA
+92,65 Oak Avenue,5386988543,Wichita,PA
+374,48 North First Drive,4533756431,Wichita,PA
+636,617 East Cowley Blvd.,807574827,Wichita,PA
+649,20 Green Milton Street,4871742966,Wichita,PA
+695,68 White First Freeway,6523912611,Wichita,PA
+185,41 White Fabien Road,1130424659,Yonkers,LA
+214,342 White Second Way,5040571060,Yonkers,LA
+730,112 First Avenue,2742651869,Yonkers,LA
+814,761 White Fabien Boulevard,9791963819,Yonkers,LA
+929,27 Nobel Drive,3395718830,Yonkers,LA
+545,865 Old Blvd.,3758581909,Yonkers,MA
+561,87 Green Milton Drive,8019958661,Yonkers,MA
+567,50 Cowley Road,4594018900,Yonkers,MA
+709,58 Green Second Freeway,1496188736,Yonkers,MA
+659,31 West Clarendon Blvd.,2556045761,Yonkers,UT
+672,697 Hague Freeway,466350336,Yonkers,UT
