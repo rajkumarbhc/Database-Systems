@@ -7,6 +7,7 @@ As a class project, I applied the techniques learned in this course to analyze, 
 
 **•	Design (Phase 2):** Made changes to the EER and IFD from Phase 1 (upon receiving feedback) and converted the abstract code from Phase 1 to SQL code that will be used in the data warehouse application development in Phase 3 <br />
 
-**•	Implementation and Testing (Phase 3):** Created the final data warehouse application using Shiny RStudio and PostgreSQL. Below is a preview of the final application. <br />
+**•	Implementation and Testing (Phase 3):** Created the final data warehouse application using Shiny RStudio and PostgreSQL <br />
  
+ Preview of the final application
 ![demo_gif](https://github.gatech.edu/storage/user/23640/files/fcde9b80-5a0e-11e9-9a94-70799b3ac02f)
