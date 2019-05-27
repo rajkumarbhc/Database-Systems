@@ -1,0 +1,2 @@
+# CS 6400 Database Systems Concepts and Design
+In this course all the database concepts, techniques and tools that are needed to develop a database application from scratch were introduced. Database concepts learnt in this course includes: Information Flow Model, Extended Entity Relationship Model, the Relational Model, Relational algebra, calculus and SQL, database normalization, efficiency and indexing, and tools for metadata management and archival. This course had four tests and a project.  
