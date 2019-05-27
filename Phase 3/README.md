@@ -1,6 +1,4 @@
 # Implementation and Testing (Phase 3)
-
-# Data Warehouse Description
 This is a data warehouse application which allows users to read and make changes to the postgres database. This application has been built in shiny rstudio. 
 
 ![demo_gif](https://github.gatech.edu/storage/user/23640/files/fcde9b80-5a0e-11e9-9a94-70799b3ac02f)
