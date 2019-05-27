@@ -1,0 +1,2 @@
+# Design (Phase 2)
+Made changes to the EER and IFD from Phase 1 (upon receiving feedback) and converted the abstract code from Phase 1 to SQL code that will be used in the data warehouse application development in Phase 3. 
