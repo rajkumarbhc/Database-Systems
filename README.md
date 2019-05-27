@@ -9,5 +9,5 @@ As a class project, I applied the techniques learned in this course to analyze, 
 
 **•	Implementation and Testing (Phase 3):** Created the final data warehouse application using Shiny RStudio and PostgreSQL <br />
  
- Preview of the final application
+ Preview of the final application <br />
 ![demo_gif](https://github.gatech.edu/storage/user/23640/files/fcde9b80-5a0e-11e9-9a94-70799b3ac02f)
